@@ -2,7 +2,7 @@
 
 Haksenguz is a blog website which is to publish news, frequently asked locations, useful information, blogs, and promote services. Website contains sections such as home, about, services, portfolio, blog, contact. Visitors can contact admin using contact me section. Haksenguz consist of **admin dashboard**
 ```
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![front-end page](front-end.png)
 
 ```
  and  **front-end ** page. 
