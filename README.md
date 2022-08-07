@@ -26,13 +26,13 @@ add new blogs,
 
 ---
 
-##Pre-requisite
--[Composer](https://getcomposer.org/download/)<br/>
--[Laravel 9](https://laravel.com/docs/9.x/starter-kits)<br/>
--[Intervention Image](https://image.intervention.io/v2)<br/><br/>
+## Pre-requisite<br/>
+- [Composer](https://getcomposer.org/download/)<br/>
+- [Laravel 9](https://laravel.com/docs/9.x/starter-kits)<br/>
+- [Intervention Image](https://image.intervention.io/v2)<br/><br/>
 
 ---
-###Installation<br/>
+### Installation<br/>
 1. Composer installation using command line.<br/>
 ```
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
@@ -40,3 +40,26 @@ php -r "if (hash_file('sha384', 'composer-setup.php') === '55ce33d7678c5a6110855
 php composer-setup.php
 php -r "unlink('composer-setup.php');"
 ```
+2. [Laravel 9 installation](https://laravel.com/docs/9.x/installation#your-first-laravel-project).<br/>
+You need Apache server to make laravel project. You can download **[XAMPP server](https://www.apachefriends.org/).**<br/>
+Open \xampp\htdocs\ folder and make a new folder by giving your project name to it. Then, open command line in this folder.<br/>
+After that follow the instructions:<br><br>
+**Make a new folder \xampp\htdocs\ inside this folder.**<br/>
+![](htdocs.png)<br/>
+
+**Open new folder.**<br/>
+![](proj_folder.png)<br/>
+
+**Open command line in this folder. You can simply type ```cmd``` in file path.**<br/>
+![](cmd.png)<br/>
+
+**Run the following commands.**<br/>
+![](cmd_project_name.png)<br/>
+
+**After that, new folder will be created. This is a folder which contains your new project. Then open this folder and run ```php artisan serve```**<br/>
+![](artisan_run.png)<br/>
+
+
+**Developement Server link will be generated. Copy this link and open it on your browser**<br/>
+![](developement_server.png)<br/>
+
