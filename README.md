@@ -1,3 +1,22 @@
+# Haksenguz Blog
+
+Haksenguz is a blog website which is to publish news, frequently asked locations, useful information, blogs, and promote services. Website contains sections such as home, about, services, portfolio, blog, contact. Visitors can contact admin using contact me section. Haksenguz consist of **admin dashboard**
+```
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+```
+ and  **front-end ** page. 
+ ```
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+```
+Admin can:
+ - insert,
+- edit ,
+ - update,
+- delete,
+ data which will be shown on **font-end** page.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
