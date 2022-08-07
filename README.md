@@ -18,4 +18,8 @@ Admin can:
 **Register** - user can register for dashboard.<br/>
 **Login** - robust login system with __Laravel Breeze__.<br/>
 **Forgot password** - in case of password is lost or forgotten, user can restore password through *email verification*. <br/><br/>
+Admin can edit, delete all data,<br>
+![dashboard](blog.png)
 
+add new blogs,
+![dashboard](add_blog.png)
