@@ -1,6 +1,7 @@
 # Haksenguz Blog
 
-Haksenguz is a blog website which is to publish news, frequently asked locations, useful information, blogs, and promote services. ![logo](public/logo/haksenguz.jpg)<br/> Website contains sections such as home, about, services, portfolio, blog, contact. Visitors can contact admin using contact me section. Haksenguz consist of **admin dashboard**
+Haksenguz is a blog website which is to publish news, frequently asked locations, useful information, blogs, and promote services.<img src='public/logo/haksenguz.jpg' width="100"><br/>
+Website contains sections such as home, about, services, portfolio, blog, contact. Visitors can contact admin using contact me section. Haksenguz consist of **admin dashboard**
 
 ![dashboard](dashboard.png)
  and  **front-end** page. 
