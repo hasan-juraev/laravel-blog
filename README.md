@@ -1,6 +1,6 @@
 # Haksenguz Blog
 
-Haksenguz is a blog website which is to publish news, frequently asked locations, useful information, blogs, and promote services. ![front](public/-end.png)<br/> Website contains sections such as home, about, services, portfolio, blog, contact. Visitors can contact admin using contact me section. Haksenguz consist of **admin dashboard**
+Haksenguz is a blog website which is to publish news, frequently asked locations, useful information, blogs, and promote services. ![logo](public/logo/haksenguz.jpg)<br/> Website contains sections such as home, about, services, portfolio, blog, contact. Visitors can contact admin using contact me section. Haksenguz consist of **admin dashboard**
 
 ![dashboard](dashboard.png)
  and  **front-end** page. 
@@ -45,21 +45,24 @@ You need Apache server to make laravel project. You can download **[XAMPP server
 Open \xampp\htdocs\ folder and make a new folder by giving your project name to it. Then, open command line in this folder.<br/>
 After that follow the instructions:<br><br>
 **Make a new folder \xampp\htdocs\ inside this folder.**<br/>
-![](htdocs.png)<br/>
+![](htdocs.png)<br/><br/>
 
 **Open new folder.**<br/>
-![](proj_folder.png)<br/>
+![](proj_folder.png)<br/><br/>
 
 **Open command line in this folder. You can simply type ```cmd``` in file path.**<br/>
-![](cmd.png)<br/>
+![](cmd.png)<br/><br/>
 
 **Run the following commands.**<br/>
 ![](cmd_project_name.png)<br/>
 
 **After that, new folder will be created. This is a folder which contains your new project. Then open this folder and run ```php artisan serve```**<br/>
-![](artisan_run.png)<br/>
+![](artisan_run.png)<br/><br/>
 
 
 **Developement Server link will be generated. Copy this link and open it on your browser**<br/>
-![](developement_server.png)<br/>
+![](developement_server.png)<br/><br/><br/>
 
+3. Image Intervention - [follow the instructions given on Image Intervention website](https://image.intervention.io/v2/introduction/installation#integration-in-laravel)<br><br>
+
+![](imageint.png)<br/><br/><br/>
