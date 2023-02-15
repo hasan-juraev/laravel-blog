@@ -6,6 +6,8 @@
 
 ### Description
 
+[Demo: ](http://ec2-3-35-167-120.ap-northeast-2.compute.amazonaws.com)
+
 Informative Platform that consists of home, blog, portfolio, about,
 and contact sections that can be used as a blog/news
 website. The project consists of Front pages which is visible to users
